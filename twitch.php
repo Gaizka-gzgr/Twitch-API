@@ -1,5 +1,13 @@
 <?php
 
+/*********************************************************
+ * Name:		Twitch API
+ * Version:		v0.1-alpha
+ * Author:		Gaizka González Graña (gaizka.gzgr@gmail.com)
+ * License:		MIT (https://github.com/Gaizka-gzgr/Multiple-Options-Open-Source-Toolkit-MOOST-/blob/master/LICENSE)
+ * Copyright 2017 - i++
+ ************************************/
+
 class Twitch_functions
 {	
 
